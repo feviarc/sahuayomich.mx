@@ -3,8 +3,7 @@
 sahuayomich.mx is based on the template **"Greatness"** by FreeHTML5.co
 
 ## Greatness - 100% Fully Responsive Free HTML5 Bootstrap Template
-**DESIGNED & DEVELOPED by FreeHTML5.co**
-Website: [http://freehtml5.co/](http://freehtml5.co/)
+**DESIGNED by FreeHTML5.co**
 
 ## CREDITS:
 
