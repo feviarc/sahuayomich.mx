@@ -60,6 +60,7 @@ a:hover, a:active, a:focus {
 
 p {
   margin-bottom: 20px;
+  font-size: 2.2rem;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
@@ -85,7 +86,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .gtco-container {
-  max-width: 1140px;
+  max-width: 95%;
   position: relative;
   margin: 0 auto;
   padding-left: 15px;
@@ -459,7 +460,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-contact-info ul li {
   padding: 0 0 0 50px;
-  margin: 0 0 30px 0;
+  margin: 0 0 0.8rem 0;
   list-style: none;
   position: relative;
 }
@@ -582,7 +583,7 @@ form label {
 #gtco-subscribe,
 #gtco-footer,
 .gtco-section {
-  padding: 7em 0;
+  padding: 3em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -729,7 +730,7 @@ form label {
   *display: inline;
 }
 #gtco-testimonial .testimony-slide figure img {
-  width: 90px;
+  width: 184px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1042,8 +1043,8 @@ form label {
 
 .gototop {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 5px;
+  right: 5px;
   z-index: 999;
   opacity: 0;
   visibility: hidden;
@@ -1392,5 +1393,63 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+
+
+/* CUSTOM */
+
+div.copyright small {
+  font-size: 1.3rem;
+}
+
+.footer__h3--bold {
+  color: #828282;
+  font-weight: bold;
+}
+
+.footer__a--underlined a:hover {
+  text-decoration: underline !important;
+}
+
+.page__header--background-orange {
+  background-color:#f85a16;
+  height: 115px !important;
+}
+
+.page__footer--background-gray {
+  background-color: #f2f2f2;
+}
+
+.tabs__img--full-width {
+  width: 100%;
+}
+
+#codigos-postales table tbody tr td,
+#codigos-postales table thead tr th {
+  font-size: 2rem;
+}
+
+#codigos-postales table tbody tr td:first-child {
+  width: 10rem;
+}
+
+#codigos-postales table tbody tr td:nth-child(2) {
+  width: 40rem;
+}
+
+
+@media screen and (max-width: 768px) {
+
+  #codigos-postales table thead th:nth-child(3),
+  #codigos-postales table tbody td:nth-child(3) {
+    display: none;
+  }
+
+  #codigos-postales table tbody tr td,
+  #codigos-postales table thead tr th {
+    font-size: 1.3rem;
+  }
+
+}
+
 
 /*# sourceMappingURL=style.css.map */
