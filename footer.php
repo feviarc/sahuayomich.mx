@@ -42,7 +42,7 @@
 					<div class="col-md-12">
 						<p class="pull-left">
 							<small class="block">
-								Copyright &copy; 2024 OITSYS (Todas la marcas y logotipos aquí mostrados
+								Copyright &copy; 2025 OITSYS (Todas la marcas y logotipos aquí mostrados
 								pertenecen a sus respectivos titulares)
 							</small>
 						</p>

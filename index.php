@@ -58,7 +58,6 @@
 		 id="gtco-header"
 		 class="gtco-cover"
 		 role="banner"
-		 style="background-image:url(images/plaza-jardin-sahuayo-michoacan.jpg);"
 		>
 			<div class="overlay"></div>
 			<div class="gtco-container">
@@ -123,7 +122,7 @@
 								<div class="col-md-6 col-md-push-6">
 									<div
 									 class="gtco-video gtco-bg"
-									 style="background-image: url(images/plaza-jardin-sahuayo-michoacan-02.jpg);"
+									 style="background-image: url(images/sahuayo-michoacan-720x512.jpg);"
 									>
 										<a href="https://www.youtube.com/watch?v=qEq9l7bYeWg" class="popup-vimeo">
 											<i class="icon-video"></i>
@@ -315,7 +314,6 @@
 		<div
 		 id="gtco-counter"
 		 class="gtco-bg gtco-cover gtco-counter"
-		 style="background-image: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), url(images/img_bg_2.jpg);"
 		>
 			<div class="overlay"></div>
 			<div class="gtco-container">
@@ -428,7 +426,7 @@
 					<div class="item">
 						<div class="testimony-slide active text-center">
 							<figure>
-								<img src="images/templo-del-sagrado-corazon-184x184.png" alt="Templo del sagrado corazón de Sahuayo">
+								<img src="images/templo-del-sagrado-corazon-184x184.jpg" alt="Templo del sagrado corazón de Sahuayo">
 							</figure>
 							<span>Visita las <a href="#">Iglesias & Templos</a></span>
 							<blockquote>
@@ -536,7 +534,7 @@
 				<div class="col-md-12">
 					<p class="pull-left">
 						<small class="block">
-							Copyright &copy; 2024 OITSYS (Todas la marcas y logotipos aquí mostrados
+							Copyright &copy; 2025 OITSYS (Todas la marcas y logotipos aquí mostrados
 							pertenecen a sus respectivos titulares)
 						</small>
 					</p>
