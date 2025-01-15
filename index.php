@@ -21,7 +21,7 @@
 	<link rel="stylesheet" href="css/magnific-popup.css">
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
 	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<link rel="stylesheet" href="css/style.css?t=2412201819">
+	<link rel="stylesheet" href="css/style.css?t=202501141127">
 
 	<link rel="preload" href="https://fonts.googleapis.com/css?family=Raleway:400,300,600,400italic,700" as="style" onload="this.onload=null;this.rel='stylesheet'">
    <noscript>
@@ -242,6 +242,8 @@
 										class="tabs__img--full-width"
 										src="images/escudo-de-armas-sahuayo-michoacan.png"
 										alt="Escudo de armas de Sahuayo de Morelos"
+										width="448"
+										height="556"
 									>
 								</div>
 								<div class="col-md-6">
@@ -395,7 +397,12 @@
 					<div class="item">
 						<div class="testimony-slide active text-center">
 							<figure>
-								<img src="images/plaza-jardin-sahuayo-michoacan-184x184.jpg" alt="Plaza Jardín de Sahuayo Michoacán">
+								<img
+								 src="images/plaza-jardin-sahuayo-michoacan-184x184.jpg"
+								 alt="Plaza Jardín de Sahuayo Michoacán"
+								 width="184"
+								 height="184"
+								>
 							</figure>
 							<span>Visita la <a href="#">Plaza & Jardín</a></span>
 							<blockquote>
@@ -411,7 +418,12 @@
 					<div class="item">
 						<div class="testimony-slide active text-center">
 							<figure>
-								<img src="images/plaza-feria-sahuayo-michoacan-184x184.jpeg" alt="Centro comercial plaza feria Sahuayo">
+								<img
+								 src="images/plaza-feria-sahuayo-michoacan-184x184.jpeg"
+								 alt="Centro comercial plaza feria Sahuayo"
+								 width="184"
+								 height="184"
+								>
 							</figure>
 							<span>Visita las <a href="#">Áreas comerciales & Negocios</a></span>
 							<blockquote>
@@ -426,7 +438,12 @@
 					<div class="item">
 						<div class="testimony-slide active text-center">
 							<figure>
-								<img src="images/templo-del-sagrado-corazon-184x184.jpg" alt="Templo del sagrado corazón de Sahuayo">
+								<img
+								 src="images/templo-del-sagrado-corazon-184x184.jpg"
+								 alt="Templo del sagrado corazón de Sahuayo"
+								 width="184"
+								 height="184"
+								>
 							</figure>
 							<span>Visita las <a href="#">Iglesias & Templos</a></span>
 							<blockquote>
@@ -443,7 +460,12 @@
 					<div class="item">
 						<div class="testimony-slide active text-center">
 							<figure>
-								<img src="images/parque-ricon-de-san-andres-sahuayo-michoacan-184x184.jpg" alt="user">
+								<img
+								 src="images/parque-ricon-de-san-andres-sahuayo-michoacan-184x184.jpg"
+								 alt="user"
+								 width="184"
+								 height="184"
+								>
 							</figure>
 							<span>Visita los <a href="#">Parques y Monumentos</a></span>
 							<blockquote>
