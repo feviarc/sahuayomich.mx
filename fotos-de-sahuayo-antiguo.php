@@ -8,20 +8,20 @@
 	<meta name="description" content="Colección de fotos antiguas de Sahuayo Michoacán, tomadas al inicio del siglo XX.">
 	<meta name="keywords" content="sahuayo, sahuayo michoacán, fotos de sahuayo, fotos antiguas de sahuayo">
 	<meta property="og:title" content="Fotos del Sahuayo antiguo | SahuayoMich.MX">
-	<meta property="og:image" content="https://sahuayomich.mx/images/sahuayo-antiguo/Sahuayo.Antiguo-014.png">
+	<meta property="og:image" content="https://sahuayomich.mx/images/sahuayo-antiguo/Sahuayo.Antiguo-014.jpg">
 	<meta property="og:url" content="https://sahuayomich.mx/fotos-de-sahuayo-antiguo.php">
 	<meta property="og:site_name" content="SahuayoMich.MX">
 	<meta property="og:description" content="Colección de fotos antiguas de Sahuayo Michoacán, tomadas al inicio del siglo XX.">
-	<link rel="stylesheet" href="css/animate.css">
-	<link rel="stylesheet" href="css/icomoon.css">
-	<link rel="stylesheet" href="css/bootstrap.css">
-	<link rel="stylesheet" href="css/magnific-popup.css">
-	<link rel="stylesheet" href="css/owl.carousel.min.css">
-	<link rel="stylesheet" href="css/owl.theme.default.min.css">
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="css/normalize.min.css">
-	<link rel="stylesheet" href="css/magnific-popup.min.css">
-	<link rel="stylesheet" href="css/gallery.css?t=202412060809">
+	<link rel="stylesheet" href="./css/animate.css">
+	<link rel="stylesheet" href="./css/icomoon.css">
+	<link rel="stylesheet" href="./css/bootstrap.css">
+	<link rel="stylesheet" href="./css/magnific-popup.css">
+	<link rel="stylesheet" href="./css/owl.carousel.min.css">
+	<link rel="stylesheet" href="./css/owl.theme.default.min.css">
+	<link rel="stylesheet" href="./css/style.css">
+	<link rel="stylesheet" href="./css/normalize.min.css">
+	<link rel="stylesheet" href="./css/magnific-popup.min.css">
+	<link rel="stylesheet" href="./css/gallery.css?t=202412060809">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,300,600,400italic,700">
 </head>
 <body>
@@ -31,12 +31,12 @@
 			<div class="gtco-container">
 				<div class="row">
 					<div class="col-xs-2">
-						<div id="gtco-logo"><a href="index.html">SahuayoMich.MX</a></div>
+						<div id="gtco-logo"><a href="index.php">SahuayoMich.MX</a></div>
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
 							<li class="active">
-								<a href="index.html">Inicio</a>
+								<a href="index.php">Inicio</a>
 							</li>
 							<li>
 								<a href="https://negocios.sahuayomich.mx/" target="_blank">Negocios</a>
@@ -50,7 +50,7 @@
 		 id="gtco-header"
 		 class="gtco-cover gtco-cover-sm"
 		 role="banner"
-		 style="background-image:url(images/mapa-antiguo-lago-de-chapala.png);"
+		 style="background-image:url(images/mapa-antiguo-lago-de-chapala.jpg);"
 		>
 			<div class="overlay"></div>
 			<div class="gtco-container">
@@ -70,161 +70,161 @@
 				<!-- BEGIN Gallery -->
 				<article class="gallery">
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-001.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-001.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-001.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-001.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Vista Aérea">
 							<figcaption>Vista Aérea</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-002.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-002.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-002.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-002.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Vista Aérea">
 							<figcaption>Vista Aérea</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-003.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-003.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-003.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-003.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Escalinata de Cristo Rey">
 							<figcaption>Escalinata de Cristo Rey</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-004.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-004.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-004.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-004.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Parte posterior del santuario de nuestra señora de Guadalupe">
 							<figcaption>Parte posterior del santuario de nuestra señora de Guadalupe</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-005.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-005.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-005.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-005.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Antigua calle de La Palma">
 							<figcaption>Antigua calle de La Palma</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-006.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-006.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-006.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-006.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Inauguración de un acueducto">
 							<figcaption>Inauguración de un acueducto</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-007.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-007.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-007.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-007.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Parte posterior de las oficinas de correos y telégrafos">
 							<figcaption>Parte posterior de las oficinas de correos y telégrafos</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-008.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-008.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-008.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-008.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Oficinas de correos y telégrafos, y parroquia de Santiago Apóstol">
 							<figcaption>Oficinas de correos y telégrafos, y parroquia de Santiago Apóstol</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-009.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-009.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-009.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-009.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Jardín y portal Patria">
 							<figcaption>Jardín y portal Patria</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-010.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-010.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-010.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-010.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Parroquia de Santiago Apóstol">
 							<figcaption>Parroquia de Santiago Apóstol</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-011.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-011.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-011.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-011.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Parroquia de Santiago Apóstol">
 							<figcaption>Parroquia de Santiago Apóstol</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-012.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-012.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-012.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-012.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Templo del Sagrado Corazón de Jesús">
 							<figcaption>Templo del Sagrado Corazón de Jesús</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-013.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-013.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-013.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-013.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Santuario de nuestra señora de Guadalupe">
 							<figcaption>Santuario de nuestra señora de Guadalupe</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-014.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-014.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-014.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-014.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Mercado Morelos">
 							<figcaption>Mercado Morelos</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-015.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-015.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-015.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-015.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Parroquia de Santiago Apóstol">
 							<figcaption>Parroquia de Santiago Apóstol</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-016.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-016.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-016.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-016.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Jardín y portal Patria">
 							<figcaption>Jardín y portal Patria</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-017.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-017.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-017.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-017.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Interior de la Parroquia de Santiago Apóstol">
 							<figcaption>Interior de la Parroquia de Santiago Apóstol</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-018.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-018.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-018.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-018.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Oficinas de correos y telégrafos">
 							<figcaption>Oficinas de correos y telégrafos</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-019.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-019.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-019.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-019.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Mercado Morelos">
 							<figcaption>Mercado Morelos</figcaption>
 						</figure>
 					</a>
 
-					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-020.png">
+					<a class="gallery-link" href="./images/sahuayo-antiguo/Sahuayo.Antiguo-020.jpg">
 						<figure class="gallery-image">
-							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-020.png" width="" height=""
+							<img src="./images/sahuayo-antiguo/thumbnails/Sahuayo.Antiguo-020.jpg" width="" height=""
 								alt="Foto de Sahuayo Antiguo - Presidencia municipal">
 							<figcaption>Presidencia municipal</figcaption>
 						</figure>
