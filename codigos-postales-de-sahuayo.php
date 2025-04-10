@@ -1,5 +1,12 @@
 <?php
 	$pageTitle = "Códigos Postales";
+	$pageDescription = "";
+	$pageKeywords = "";
+	$ogTitle = "";
+	$ogImage = "";
+	$ogUrl = "";
+	$ogSiteName = "";
+	$ogDescription = "";
 	require_once 'zip-codes.php';
 	require_once 'header.php';
 ?>
@@ -22,9 +29,7 @@
 								<tr>
 									<td><?= htmlspecialchars($codigoPostal[0]) ?></td>
 									<td>
-										<a href="https://www.profitablecpmrate.com/g1p2nct6bg?key=2600d2e9869e46490501c1379f144de7" target="_blank">
-											<?= htmlspecialchars($codigoPostal[1]) ?>
-										</a>
+										<?= htmlspecialchars($codigoPostal[1]) ?>
 									</td>
 									<td><?= htmlspecialchars($codigoPostal[2]) ?></td>
 								</tr>

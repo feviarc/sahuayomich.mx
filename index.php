@@ -524,7 +524,7 @@
 								<br>
 								Sahuayo, Michoacán.
 							</li>
-							<li class="phone">(353) 172-7002</li>
+							<li class="phone">(353) 100-5066</li>
 							<li class="email">contacto@sahuayomich.mx</li>
 						</ul>
 					</div>
