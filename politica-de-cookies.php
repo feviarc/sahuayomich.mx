@@ -1,5 +1,12 @@
 <?php
 	$pageTitle = "Política de Cookies";
+	$pageDescription = "";
+	$pageKeywords = "";
+	$ogTitle = "";
+	$ogImage = "";
+	$ogUrl = "";
+	$ogSiteName = "";
+	$ogDescription = "";
 	require_once 'header.php';
 ?>
 		<div class="gtco-section">
