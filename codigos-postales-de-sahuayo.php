@@ -1,5 +1,5 @@
 <?php
-	$pageTitle = "Códigos Postales";
+	$pageTitle = "Códigos Postales de Sahuayo";
 	$pageDescription = "";
 	$pageKeywords = "";
 	$ogTitle = "";
@@ -15,7 +15,7 @@
 				<!-- BEGIN Fragment Page -->
 				<main>
 					<h1><?php echo $pageTitle ?></h1>
-					<p>El municipio de Sahuayo cuenta con los siguientes códigos postales:</p>
+					<p>El municipio cuenta con los siguientes códigos postales:</p>
 					<table>
 						<thead>
 							<tr>

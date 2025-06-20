@@ -100,11 +100,11 @@
 						<p>Si tiene preguntas sobre nuestra Política de Cookies, puede contactarnos a través de:</p>
 						<ul>
 							<li><strong>Correo Electrónico:</strong> <a href="mailto:contacto@sahuayomich.mx">contacto@sahuayomich.mx</a></li>
-							<li><strong>Teléfono:</strong> (353) 172-7002</li>
+							<li><strong>Teléfono:</strong> (353) 100-5066</li>
 							<li><strong>Domicilio:</strong> Nicolás Bravo #199, Col. La Forestal, Sahuayo Michoacán.</li>
 						</ul>
 					</section>
-					<p><strong>Fecha de última actualización:</strong> 02/12/2024</p>
+					<p><strong>Fecha de última actualización:</strong> 17/06/2025</p>
 					<!-- END Fragment Page -->
 				</main>
 			</div>
