@@ -32,14 +32,17 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
-							<li>
+							<li class="active">
 								<a href="index.php">Inicio</a>
 							</li>
 							<li>
-								<a href="https://negocios.sahuayomich.mx/" target="_blank">Directorio</a>
+								<a href="fotos-de-sahuayo-antiguo.php">Fotos</a>
 							</li>
 							<li>
-								<a href="fotos-de-sahuayo-antiguo.php">Galería</a>
+								<a href="historia-de-sahuayo.php">Historia</a>
+							</li>
+							<li>
+								<a href="https://negocios.sahuayomich.mx/" target="_blank">Negocios</a>
 							</li>
 						</ul>
 					</div>

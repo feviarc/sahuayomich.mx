@@ -40,14 +40,17 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
-							<li class="active">
+							<!-- <li class="active">
 								<a href="#">Inicio</a>
+							</li> -->
+							<li>
+								<a href="fotos-de-sahuayo-antiguo.php">Fotos</a>
 							</li>
 							<li>
-								<a href="https://negocios.sahuayomich.mx/" target="_blank">Directorio</a>
+								<a href="historia-de-sahuayo.php">Historia</a>
 							</li>
 							<li>
-								<a href="fotos-de-sahuayo-antiguo.php">Galería</a>
+								<a href="https://negocios.sahuayomich.mx/" target="_blank">Negocios</a>
 							</li>
 						</ul>
 					</div>
@@ -200,11 +203,6 @@
 									 style="background-image: url(images/huarache-mas-grande-del-mundo-sahuayo-michoacan.jpg);"
 									>
 									</div>
-									<div
-									 class="gtco-video gtco-bg"
-									 style="background-image: url(images/certificado-de-record-guinness.png);"
-								   >
-								   </div>
 								</div>
 								<div class="col-md-6 col-md-pull-6">
 									<h2>Record Guinness: El huarache más grande el mundo.</h2>
@@ -532,9 +530,9 @@
 				<div class="clearfix visible-xs-block"></div>
 				<div class="col-md-3 col-sm-4 col-xs-12 ">
 					<ul class="gtco-footer-links">
-						<li><a href="codigos-postales-de-sahuayo.php">Códigos postales</a></li>
-						<li><a href="fotos-de-sahuayo-antiguo.php">Fotos del Sahuayo antiguo</a></li>
-						<li><a href="historia-de-sahuayo.php">Reseña histórica</a></li>
+						<li><a href="codigos-postales-de-sahuayo.php">Códigos Postales</a></li>
+						<li><a href="fotos-de-sahuayo-antiguo.php">Fotos Antiguas</a></li>
+						<li><a href="historia-de-sahuayo.php">Historia</a></li>
 					</ul>
 				</div>
 				<div class="clearfix visible-xs-block"></div>

@@ -19,8 +19,8 @@
 					<div class="col-md-3 col-sm-4 col-xs-12 ">
 						<ul class="gtco-footer-links">
 							<li><a href="codigos-postales-de-sahuayo.php">Códigos postales</a></li>
-							<li><a href="fotos-de-sahuayo-antiguo.php">Fotos del Sahuayo antiguo</a></li>
-							<li><a href="historia-de-sahuayo.php">Reseña histórica</a></li>
+							<li><a href="fotos-de-sahuayo-antiguo.php">Fotos Antiguas</a></li>
+							<li><a href="historia-de-sahuayo.php">Historia</a></li>
 						</ul>
 					</div>
 					<div class="clearfix visible-xs-block"></div>

@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Fotos del Sahuayo antiguo | SahuayoMich.MX</title>
+	<title>Fotos Antiguas de Sahuayo | SahuayoMich.MX</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Colección de fotos antiguas de Sahuayo Michoacán, tomadas al inicio del siglo XX.">
 	<meta name="keywords" content="sahuayo, sahuayo michoacán, fotos de sahuayo, fotos antiguas de sahuayo">
@@ -35,8 +35,14 @@
 					</div>
 					<div class="col-xs-10 text-right menu-1">
 						<ul>
-							<li class="active">
+							<li>
 								<a href="index.php">Inicio</a>
+							</li>
+							<li class="active">
+								<a href="fotos-de-sahuayo-antiguo.php">Fotos</a>
+							</li>
+							<li>
+								<a href="historia-de-sahuayo.php">Historia</a>
 							</li>
 							<li>
 								<a href="https://negocios.sahuayomich.mx/" target="_blank">Negocios</a>
@@ -58,7 +64,7 @@
 					<div class="col-md-8 col-md-offset-2 text-center">
 						<div class="display-t">
 							<div class="display-tc animate-box" data-animate-effect="fadeIn">
-								<h1>Fotos del Sahuayo antiguo</h1>
+								<h1>Fotos Antiguas de Sahuayo</h1>
 							</div>
 						</div>
 					</div>
@@ -255,8 +261,8 @@
 					<div class="col-md-3 col-sm-4 col-xs-12 ">
 						<ul class="gtco-footer-links">
 							<li><a href="codigos-postales-de-sahuayo.php">Códigos postales</a></li>
-							<li><a href="fotos-de-sahuayo-antiguo.php">Fotos del Sahuayo antiguo</a></li>
-							<li><a href="historia-de-sahuayo.php">Reseña histórica</a></li>
+							<li><a href="fotos-de-sahuayo-antiguo.php">Fotos Antiguas</a></li>
+							<li><a href="historia-de-sahuayo.php">Historia</a></li>
 						</ul>
 					</div>
 					<div class="clearfix visible-xs-block"></div>
